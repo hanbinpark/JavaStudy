@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;cnt&apos; in &apos;ex01일차원배열.Ex09.main(...)&apos; to &apos;sum&apos;&#x0D;&#x0A;- Original project: &apos;Ex04배열&apos;&#x0D;&#x0A;- Original element: &apos;ex01일차원배열.Ex09.main(String[]).cnt&apos;&#x0D;&#x0A;- Renamed element: &apos;cnt&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cnt&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ex01일차원배열{Ex09.java[Ex09~main~\[QString;@cnt!499!510!503!505!I!0!false" name="sum" references="true" stamp="1687227147197" version="1.0"/>
+</session>

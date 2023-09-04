@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ex04switch.Ex04최종조건문실습&apos; to &apos;Ex04최종조건문실습_자판기&apos;&#x0D;&#x0A;- Original project: &apos;Ex02조건문&apos;&#x0D;&#x0A;- Original element: &apos;ex04switch.Ex04최종조건문실습&apos;&#x0D;&#x0A;- Renamed element: &apos;ex04switch.Ex04최종조건문실습_자판기&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ex04최종조건문실습&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ex04switch{Ex04최종조건문실습.java[Ex04최종조건문실습" matchStrategy="1" name="Ex04최종조건문실습_자판기" qualified="false" references="true" similarDeclarations="false" stamp="1688516090469" textual="false" version="1.0"/>
+</session>
